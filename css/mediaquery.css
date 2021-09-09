@@ -204,6 +204,10 @@
     padding-bottom: 32px !important;
     margin: 0 auto !important;
   }
+  .text-footer .curso,
+  .text-footer {
+    padding-right: 12px;
+  }
 }
 
 @media screen and (min-width: 480px) and (max-width: 599px) {
